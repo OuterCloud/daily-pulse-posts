@@ -3,6 +3,7 @@ layout: post
 title: "每日技术动态报告"
 date: 2026-04-13 09:00:00 +0800
 categories: digest
+lang: zh
 ---
 
 **日期**: 2026年4月13日
