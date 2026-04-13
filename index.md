@@ -22,5 +22,6 @@ title: 每日技术趋势
 </ul>
 
 {% if site.posts.size == 0 %}
-*暂无报告，请运行 `bash publish.sh` 发布第一篇。*
+*暂无报告。*
 {% endif %}
+

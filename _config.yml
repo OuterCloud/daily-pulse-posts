@@ -9,7 +9,9 @@ minima:
   skin: classic
   date_format: "%Y-%m-%d"
   social_links:
-    - { platform: github, user_url: "https://github.com" }
+    - { platform: github, user_url: "https://github.com/OuterCloud/new-tech" }
+
+github_repo: "https://github.com/OuterCloud/new-tech"
 
 # 文章永久链接格式：/2026/04/13/daily-digest/
 permalink: /:year/:month/:day/:title/
