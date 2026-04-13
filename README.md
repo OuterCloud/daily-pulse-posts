@@ -1,6 +1,6 @@
-# 每日技术趋势 · Daily Tech Digest
+# DailyPulse · 每日脉搏
 
-自动聚合 **GitHub Trending**、**Hacker News**、**arXiv** 和 **Product Hunt**，由 AI 每日生成中英双语技术趋势报告。
+聚合 **GitHub Trending**、**Hacker News**、**arXiv**、**Product Hunt** 与**财经要闻**，由 AI 每日生成中英双语简报。
 
 📖 **在线阅读**：[outercloud.github.io/new-tech](https://outercloud.github.io/new-tech/)
 
