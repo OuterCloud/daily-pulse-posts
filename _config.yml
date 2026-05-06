@@ -26,8 +26,8 @@ toc: true
 # 主题模式（留空跟随系统）
 theme_mode:
 
-# 头像（可选，留空不显示）
-avatar:
+# 头像
+avatar: "/assets/img/avatar.png"
 
 comments:
   provider:
