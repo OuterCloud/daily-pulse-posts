@@ -1,22 +1,25 @@
 title: "DailyPulse · 每日脉搏"
-description: "聚合 GitHub Trending、Hacker News、arXiv、Product Hunt 与财经要闻，由 AI 生成中英双语每日脉搏报告"
+description: "AI 驱动的中英双语每日技术简报 — 聚合 GitHub Trending、Hacker News、arXiv、Product Hunt 与财经要闻"
 lang: zh-CN
 
-# 使用 Minima 主题（GitHub Pages 内置，无需额外配置）
+# 使用 Minima 主题（GitHub Pages 内置）
 theme: minima
 
 minima:
   skin: classic
   date_format: "%Y-%m-%d"
   social_links:
-    - { platform: github, user_url: "https://github.com/<your-username>/<your-repo>" }
+    - {
+        platform: github,
+        user_url: "https://github.com/OuterCloud/daily-pulse",
+      }
 
-github_repo: "https://github.com/<your-username>/<your-repo>"
+github_repo: "https://github.com/OuterCloud/daily-pulse"
 
-# 文章永久链接格式：/2026/04/13/daily-digest/
+# 文章永久链接格式
 permalink: /:year/:month/:day/:title/
 
-# 显示文章摘要字数
+# 显示文章摘要
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 

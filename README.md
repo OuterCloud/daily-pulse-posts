@@ -19,4 +19,4 @@ _posts/
 
 ## 关于
 
-本仓库由 [find-new-tech](https://github.com/<your-username>/<your-repo>) 自动维护，请勿手动修改。
+本仓库由 [daily-pulse](https://github.com/<your-username>/<your-repo>) 自动维护，请勿手动修改。
