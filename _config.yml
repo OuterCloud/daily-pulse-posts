@@ -26,8 +26,8 @@ toc: true
 # 主题模式（留空跟随系统）
 theme_mode:
 
-# 头像
-avatar: "/assets/img/avatar.png"
+# 头像（可选，留空不显示）
+avatar:
 
 comments:
   provider:
@@ -78,6 +78,15 @@ defaults:
 
 sass:
   style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
 
 exclude:
   - "*.gem"
