@@ -27,7 +27,7 @@ toc: true
 theme_mode:
 
 # 头像
-avatar: "/new-tech/assets/img/avatar.png"
+avatar: "/assets/img/avatar.png"
 
 comments:
   provider:
