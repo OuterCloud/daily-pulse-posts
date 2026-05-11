@@ -1,5 +1,5 @@
 ---
-title: "DailyPulse · 调研报告 | 2026-04-25"
+title: "DailyPulse · 调研 | 深入调研CAR这只股票的基本面"
 date: 2026-04-25 09:00:00 +0800
 categories:
   - Research
