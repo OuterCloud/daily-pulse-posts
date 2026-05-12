@@ -1,5 +1,6 @@
 ---
 title: "DailyPulse · 调研 | 美股光模块有哪些核心股票，他们分别前景如何？未来股价是否还会继续上涨？"
+slug: research-1
 date: 2026-04-15 09:00:00 +0800
 categories:
   - Research

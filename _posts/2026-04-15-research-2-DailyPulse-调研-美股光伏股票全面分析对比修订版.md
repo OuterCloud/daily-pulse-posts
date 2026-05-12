@@ -1,5 +1,6 @@
 ---
 title: "DailyPulse · 调研 | 美股光伏股票全面分析对比（修订版）"
+slug: research-2
 date: 2026-04-15 09:00:00 +0800
 categories:
   - Research

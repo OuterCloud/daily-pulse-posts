@@ -1,5 +1,6 @@
 ---
 title: "DailyPulse · 调研 | 美股光模块第一股"
+slug: research-1
 date: 2026-05-11 09:00:00 +0800
 categories:
   - Research

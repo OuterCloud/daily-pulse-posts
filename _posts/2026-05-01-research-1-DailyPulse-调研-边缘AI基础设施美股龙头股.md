@@ -1,5 +1,6 @@
 ---
 title: "DailyPulse · 调研 | 边缘AI基础设施美股龙头股"
+slug: research-1
 date: 2026-05-01 09:00:00 +0800
 categories:
   - Research

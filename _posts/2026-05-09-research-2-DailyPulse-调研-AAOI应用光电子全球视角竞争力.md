@@ -1,5 +1,6 @@
 ---
 title: "DailyPulse · 调研 | AAOI(应用光电子)全球视角竞争力分析与产研报告"
+slug: research-2
 date: 2026-05-09 09:00:00 +0800
 categories:
   - Research

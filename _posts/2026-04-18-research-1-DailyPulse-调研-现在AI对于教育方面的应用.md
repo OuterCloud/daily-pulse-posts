@@ -1,5 +1,6 @@
 ---
 title: "DailyPulse · 调研 | 现在AI对于教育方面的应用"
+slug: research-1
 date: 2026-04-18 09:00:00 +0800
 categories:
   - Research
