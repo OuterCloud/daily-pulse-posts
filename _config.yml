@@ -8,7 +8,7 @@ tagline: "AI 驱动的中英双语每日技术简报"
 description: >-
   聚合 GitHub Trending、Hacker News、arXiv、Product Hunt 与财经要闻，由 AI 每日生成中英双语简报。
 
-url: "https://outercloud.github.io"
+url: "https://OuterCloud.github.io"
 baseurl: "/daily-pulse-posts"
 
 github:
@@ -38,7 +38,7 @@ analytics:
 
 paginate: 10
 
-permalink: /posts/:title/
+permalink: /:year/:month/:day/:slug/
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
@@ -64,7 +64,7 @@ defaults:
       layout: post
       comments: false
       toc: true
-      permalink: /posts/:title/
+      permalink: /:year/:month/:day/:slug/
   - scope:
       path: _drafts
     values:
